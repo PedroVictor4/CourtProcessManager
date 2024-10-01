@@ -1,2 +1,2 @@
 # CourtProcessManager
-An application for managing court processes using Java.
+A Java application designed using the Singleton design pattern. This application aims to manage court processes and their related components, ensuring efficient handling of case data, deadlines, and procedural steps. 
